@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wxylq.github.io</id>
     <title>九乐博客</title>
-    <updated>2020-02-24T04:33:27.002Z</updated>
+    <updated>2020-02-24T04:34:50.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wxylq.github.io"/>
     <link rel="self" href="https://wxylq.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://wxylq.github.io/images/avatar.png</logo>
     <icon>https://wxylq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 九乐博客</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://wxylq.github.io/post/ce-shi/</id>
+        <link href="https://wxylq.github.io/post/ce-shi/">
+        </link>
+        <updated>2020-02-24T04:34:13.000Z</updated>
+    </entry>
 </feed>
